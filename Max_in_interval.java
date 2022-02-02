@@ -1,7 +1,7 @@
 import java.io.*;
-import java.util.*;
+//import java.util.*;
 
-public class Main {
+public class Max_in_interval {
 
   public static class SegmentTree {
     int arr[];
